@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PawanBam
 - 👀 I’m interested in ...Front End Development
 - 🌱 I’m currently learning ... CSS Redux  Material UI JS Typescript React Next.js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Front End Works
 - 📫 How to reach me ...pawanbam007@gmail.com
 
 <!---
